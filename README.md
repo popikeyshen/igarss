@@ -1,12 +1,10 @@
 # Machine Learning Models for EOS SAT-1 Satellite Image Enhancing
+**Viacheslav Popika, Lidia Lelechenko**  
 
 This repository contains the author’s accepted version of the paper:
-
-**"Machine Learning Models for EOS SAT-1 Satellite Image Enhancing"**  
-**Viacheslav Popika, Lidia Lelechenko**  
 Accepted to **IGARSS 2024 (IEEE International Geoscience and Remote Sensing Symposium)**
 
-## 📄 Abstract
+## Abstract
 
 This study presents a novel multi-stage method for enhancing the quality and resolution of satellite images from the EOS SAT-1 optical satellite. The proposed approach addresses the absence of clean ground truth data by training a *Distortion Network* to emulate realistic degradation, followed by the use of a *Super-Resolution GAN (SRGAN)* trained on synthetically generated image pairs.
 
@@ -19,12 +17,12 @@ Special focus is given to maintaining the stability of agro-indices such as NDVI
 - Quantitative and qualitative validation of the approach on real and synthetic data.
 
 
-## 📁 Files
+## Files
 
-- [`20240523112109_984052_4347.pdf`](./20240523112109_984052_4347.pdf): Author’s accepted manuscript (AAM) submitted to IGARSS 2024.
-- Example figures and supplemental data (coming soon).
+- [`paper.pdf`](./paper.pdf): Author’s accepted manuscript (AAM) submitted to IGARSS 2024.
 
-## 📌 Citation
+
+## Citation
 
 If you use or refer to this work, please cite it as:
 
